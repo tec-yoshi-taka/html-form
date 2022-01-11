@@ -6,6 +6,8 @@ https://drive.google.com/file/d/1gGgRhzRsK78bqueVOVc6LF_OoShE-fRr/view?usp=shari
 
 <br>
 
+[go](https://drive.google.com/file/d/1gGgRhzRsK78bqueVOVc6LF_OoShE-fRr/view?usp=sharing){:target="_blank" rel="noopener"}
+
 ---
 
 ## form要素について
