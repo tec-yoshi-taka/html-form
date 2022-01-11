@@ -6,11 +6,6 @@ https://drive.google.com/file/d/1gGgRhzRsK78bqueVOVc6LF_OoShE-fRr/view?usp=shari
 
 <br>
 
-[go](https://drive.google.com/file/d/1gGgRhzRsK78bqueVOVc6LF_OoShE-fRr/view?usp=sharing){:target="_blank" rel="noopener"}
-
-<br>
-<a href="https://drive.google.com/file/d/1gGgRhzRsK78bqueVOVc6LF_OoShE-fRr/view?usp=sharing" target="_blank">リンク</a>	
-
 ---
 
 ## form要素について
