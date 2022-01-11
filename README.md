@@ -7,14 +7,19 @@
 
 ## form要素について
 入力エリア全体をform要素で囲う
+
 -actionにはデータ送信先URL
+
 -methodには送信方法（通常はpost）
+
 を設定
 
 ```html
 <form action="test" method="post">
 ```
 <br>
+
+---
 
 ## dl/dt/dd 要素について
 ### 定義リストはdlタグで範囲で表し、
@@ -29,7 +34,7 @@
 ```
 <br>
 
-<br>
+---
 
 # 入力用部品 input
 ### type="text" は文字列を入力
@@ -74,6 +79,8 @@
 ```
 <br>
 
+---
+
 # 一つのみを選択する部品 input type="radio"
 ### name属性の値でグループ化し、選択できる項目は一つ
 ### value属性で送信データを指定
@@ -89,6 +96,7 @@
 ```
 <br>
 
+---
 
 # 複数を選択する部品 input type="checkbox"
 ### name属性の値でグループ化し、選択できる項目は複数
